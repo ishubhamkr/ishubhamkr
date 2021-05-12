@@ -19,18 +19,34 @@
 > <i>Tools, languages, and other things that I like to work with.</i>
 <br>
 <table>
-  <tr>
+    <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/html.svg" width="40"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="40"/>
       </a>
       <br>HTML
     </td>
+  <tr>
+  <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/css.svg" width="40"/>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FC%252B%252B&psig=AOvVaw2MhE1lqABL5e-hpNqttCdT&ust=1620906046971000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiukN-HxPACFQAAAAAdAAAAABAD" width="40"/>
       </a>
-      <br>CSS
+      <br>HTML
+    </td>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="40"/>
+      </a>
+      <br>HTML
+    </td>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="40"/>
+      </a>
+      <br>HTML
     </td>
     <td align="center" width="96">
       <a>
@@ -38,29 +54,19 @@
       </a>
       <br>Javascript
     </td>
+  <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/react.svg" width="40"/>
+        <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" width="40"/>
       </a>
-      <br>React
+      <br>HTML
     </td>
+  <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/bootstrap.svg" width="40"/>
+        <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="40"/>
       </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/unity.svg" width="40"/>
-      </a>
-      <br>Unity
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/py.svg" width="40"/>
-      </a>
-      <br>Python
+      <br>HTML
     </td>
     <td align="center" width="96">
       <a>

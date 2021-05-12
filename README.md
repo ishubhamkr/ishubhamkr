@@ -17,52 +17,18 @@
 
 ## 💻 Things I know
 > <i>Tools, languages, and other things that I like to work with.</i>
-<br>
-<table>
-    <br>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/c-programming.svg" width="40"/>
-      </a>
-    </td>
-  <tr>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://en.wikipedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" width="40"/>
-      </a>
-    </td>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="40"/>
-    </td>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/js.svg" width="40"/>
-      </a>
-    </td>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" width="40"/>
-      </a>
-    </td>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="40"/>
-      </a>
-    </td>
-   </br>
-</table>
+<p align="center">
+	  <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/c-programming.svg" alt="C" width="65" height="65"/> 
+	  <img src="https://en.wikipedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" alt="CPP" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/js.svg" alt="JavaScript" width="85" height="70"/> 
+      <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Golang" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
+</p>
+
 <p align="center"=><i>In case you wanna reach out to me</i></p>
  <p align="center">
   <a href="https://www.linkedin.com/in/imshubhamkumar/"><img alt="LinkedIn" title="LinkedIn" src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/linkedin.svg" width=20px" /></a>&nbsp;&nbsp;&nbsp;

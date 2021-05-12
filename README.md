@@ -19,9 +19,7 @@
 > <i>Tools, languages, and other things that I like to work with.</i>
 <br>
 <table>
-    
-</table>
-<br>
+    <br>
   <tr>
     <td align="center" width="96">
       <a>
@@ -63,7 +61,9 @@
         <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="40"/>
       </a>
     </td>
-<br>
+</table>
+
+</br>
 <p align="center"=><i>In case you wanna reach out to me</i></p>
  <p align="center">
   <a href="https://www.linkedin.com/in/imshubhamkumar/"><img alt="LinkedIn" title="LinkedIn" src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/linkedin.svg" width=20px" /></a>&nbsp;&nbsp;&nbsp;

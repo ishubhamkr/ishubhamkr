@@ -1,4 +1,4 @@
-# Hi, This is me Shubham Kumar. Currently, I am pursuing my M.Tech - Information Security from Atal Bihari Vajpayee - Indian Institute of Information Technology and Management, Gwalior, Madhya Pradesh, India - 474015
+# Hi, This is me Shubham Kumar. Currently, I am pursuing my M.Tech in Information Security from Atal Bihari Vajpayee - Indian Institute of Information Technology and Management, Gwalior, Madhya Pradesh, India - 474015
 
 ## :raising_hand: About me:
 I'm have completed my <b>undergraduate</b> at <a href="https://www.ticollege.ac.in/"> <b>Techno India, SaltLake, Kolkata, West Bengal</b></a>.<br>

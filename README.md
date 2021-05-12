@@ -19,12 +19,11 @@
 > <i>Tools, languages, and other things that I like to work with.</i>
 <p align="center">
 	  <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/c-programming.svg" alt="C" width="65" height="65"/> 
-	  <img src="https://en.wikipedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" alt="CPP" width="65" height="65"/> 
+	<img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/cpp.svg" alt="CPP" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/js.svg" alt="JavaScript" width="85" height="70"/> 
       <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Golang" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
 </p>

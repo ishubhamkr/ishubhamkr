@@ -15,6 +15,9 @@
 
 <div id="tech"></div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishubhamkr&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ishubhamkr/github-readme-stats)
+
+
 ## 💻 Things I know
 > <i>Tools, languages, and other things that I like to work with.</i>
 <p align="center">
@@ -27,11 +30,6 @@
       <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
 </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishubhamkr&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ishubhamkr/github-readme-stats)
-
-
 
 <p align="center"=><i>In case you wanna reach out to me</i></p>
  <p align="center">

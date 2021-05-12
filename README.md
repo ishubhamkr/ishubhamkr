@@ -1,5 +1,5 @@
 # Hi, This is me Shubham Kumar. 
-![](https://thumbs.gfycat.com/DeliriousResponsibleAiredaleterrier-mobile.mp4)
+![](https://gfycat.com/deliriousresponsibleairedaleterrier)
 
 ## :raising_hand: About me:
 ◽ Currently, I am pursuing my <b>M.Tech</b> in Information Security from <a href="https://www.iiitm.ac.in/index.php/en/"><b> Atal Bihari Vajpayee - Indian Institute of Information Technology and Management, Gwalior, Madhya Pradesh, India - 474015</b></a>.<br>

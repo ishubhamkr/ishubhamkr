@@ -22,8 +22,47 @@
     
 </table>
 <br>
-
-##
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/c-programming.svg" width="40"/>
+      </a>
+    </td>
+  <tr>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://en.wikipedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" width="40"/>
+      </a>
+    </td>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="40"/>
+    </td>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="40"/>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/js.svg" width="40"/>
+      </a>
+    </td>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" width="40"/>
+      </a>
+    </td>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="40"/>
+      </a>
+    </td>
 <br>
 <p align="center"=><i>In case you wanna reach out to me</i></p>
  <p align="center">

@@ -4,7 +4,7 @@
 I'm have completed my <b>undergraduate</b> at <a href="https://www.ticollege.ac.in/"> <b>Techno India, SaltLake, Kolkata, West Bengal</b></a>.<br>
 ◽ Intrested in <b>Blockchain</b>, <b>Artificial Intelligenece</b> and <b>Machine Learning</b>.<br>
 ◽ I like minimal art style.<br>
-◽ I’m currently learning everything about **Cyber-security** and **Blockchaind** technologies.<br>
+◽ I’m currently learning everything about **Cyber-security** and **Blockchain** technologies.<br>
 
 <br>
 <a href="https://github.com/ishubhamkr">

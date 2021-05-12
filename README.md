@@ -28,6 +28,11 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
 </p>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishubhamkr&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ishubhamkr/github-readme-stats)
+
+
+
 <p align="center"=><i>In case you wanna reach out to me</i></p>
  <p align="center">
   <a href="https://www.linkedin.com/in/imshubhamkumar/"><img alt="LinkedIn" title="LinkedIn" src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/linkedin.svg" width=20px" /></a>&nbsp;&nbsp;&nbsp;

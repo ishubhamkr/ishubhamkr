@@ -25,7 +25,7 @@
 	<img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/cpp.svg" alt="CPP" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-	<img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/c-programming.svg" alt="LaTex" width="65" height="65"/> 
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTex" width="65" height="65"/> 
       <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/js.svg" alt="JavaScript" width="85" height="70"/> 
       <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Golang" width="55" height="75"/>
       <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/>

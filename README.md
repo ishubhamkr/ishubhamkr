@@ -1,8 +1,8 @@
 # Hi, This is me Shubham Kumar. 
 
 ## :raising_hand: About me:
-Currently, I am pursuing my <b>M.Tech<.b> in Information Security from <a href="https://www.iiitm.ac.in/index.php/en/"> Atal Bihari Vajpayee - Indian Institute of Information Technology and Management, Gwalior, Madhya Pradesh, India - 474015
-I'm have completed my <b>B.Tech</b> at <a href="https://www.ticollege.ac.in/"> <b>Techno India, SaltLake, Kolkata, West Bengal</b></a>.<br>
+◽ Currently, I am pursuing my <b>M.Tech<.b> in Information Security from <a href="https://www.iiitm.ac.in/index.php/en/"> Atal Bihari Vajpayee - Indian Institute of Information Technology and Management, Gwalior, Madhya Pradesh, India - 474015
+◽ I'm have completed my <b>B.Tech</b> at <a href="https://www.ticollege.ac.in/"> <b>Techno India, SaltLake, Kolkata, West Bengal</b></a>.<br>
 ◽ Intrested in <b>Blockchain</b>, <b>Artificial Intelligenece</b> and <b>Machine Learning</b>.<br>
 ◽ I like minimal art style.<br>
 ◽ I’m currently learning everything about **Cyber-security** and **Blockchain** technologies.<br>

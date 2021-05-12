@@ -1,16 +1,82 @@
-### Hi there 👋
+# Hi, This is me Shubham Kumar. Currently, I am pursuing my M.Tech - Information Security from Atal Bihari Vajpayee - Indian Institute of Information Technology and Management, Gwalior, Madhya Pradesh, India - 474015g
 
-<!--
-**ishubhamkr/ishubhamkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :raising_hand: About me:
+I'm have completed my <b>undergraduate</b> at <a href="https://www.ticollege.ac.in/"> <b>Techno India, SaltLake, Kolkata, West Bengal</b></a>.<br>
+◽ Intrested in <b>Blockchain</b>, <b>Artificial Intelligenece</b> and <b>Machine Learning</b>.<br>
+◽ I like minimal art style.<br>
+◽ I’m currently learning everything about **Cyber-security** and **Blockchaind** technologies.<br>
 
-Here are some ideas to get you started:
+<br>
+<a href="https://github.com/ishubhamkr">
+   <img src="https://github-readme-stats.vercel.app/api?username=ishubhamkr&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Shubham's github stats" width=450px/>
+</a><br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="tech"></div>
+
+## 💻 Things I know
+> <i>Tools, languages, and other things that I like to work with.</i>
+<br>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/html.svg" width="40"/>
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/css.svg" width="40"/>
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/js.svg" width="40"/>
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/react.svg" width="40"/>
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/bootstrap.svg" width="40"/>
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/unity.svg" width="40"/>
+      </a>
+      <br>Unity
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/py.svg" width="40"/>
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/ps.svg" width="40"/>
+      </a>
+      <br>Photoshop
+    </td> 
+  </tr>
+</table>
+<br>
+
+##
+<br>
+<p align="center"=><i>In case you wanna reach out to me</i></p>
+ <p align="center">
+  <a href="https://www.linkedin.com/in/imshubhamkumar/"><img alt="LinkedIn" title="LinkedIn" src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/linkedin.svg" width=20px" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_mshubham/"><img alt="Instagram" title="Instagram" src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/instagram.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
+   <a href="mshubham0309@gmail.com"><img alt="mail" title="mail" src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/gmail.svg" width=20px/></a>
+</p>
+<br>
+

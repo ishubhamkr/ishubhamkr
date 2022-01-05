@@ -1,5 +1,6 @@
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 ![](https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/gif.gif)
+![](https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/linkedln.jpg)
 
 ## :raising_hand: About me:
 ◽ Currently, I am pursuing my <b>M.Tech</b> in Information Security from <a href="https://www.iiitm.ac.in/index.php/en/"><b> Atal Bihari Vajpayee - Indian Institute of Information Technology and Management, Gwalior, Madhya Pradesh, India - 474015</b></a>.<br>

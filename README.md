@@ -3,7 +3,7 @@
 
 ## :raising_hand: About me:
 ◽ Currently, I am working as the <b>Software Engineer</b> for <a href="https://www.optum.in/"><b>Optum Global Solutions</a>.<br>
-◽ I'm have completed my <b>M.Tech</b> in Information Security from <a href="https://www.iiitm.ac.in/index.php/en/"><b> Atal Bihari Vajpayee - Indian Institute of Information Technology and Management, Gwalior, Madhya Pradesh, India - 474015</b></a>.<br>
+◽ I have completed my <b>M.Tech</b> in Information Security from <a href="https://www.iiitm.ac.in/index.php/en/"><b> Atal Bihari Vajpayee - Indian Institute of Information Technology and Management, Gwalior, Madhya Pradesh, India - 474015</b></a>.<br>
 
 
 <br>

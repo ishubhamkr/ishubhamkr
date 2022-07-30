@@ -2,9 +2,8 @@
 ![](https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/gif.gif)
 
 ## :raising_hand: About me:
-◽ Currently, I am working for <a href="https://www.optum.in/"><b>Optum Global Solutions</b> as the <b>Software Engineer</b></a>.<br>.
+◽ Currently, I am working for <a href="https://www.optum.in/"><b>Optum Global Solutions</b> as the <b>Software Engineer</b></a>.<br>
 ◽ I'm have completed my <b>M.Tech</b> in Information Security from <a href="https://www.iiitm.ac.in/index.php/en/"><b> Atal Bihari Vajpayee - Indian Institute of Information Technology and Management, Gwalior, Madhya Pradesh, India - 474015</b></a>.<br>
-◽ I'm have completed my <b>B.Tech</b> in Computer Science And Engineering from <a href="https://www.ticollege.ac.in/"> <b>Techno India, SaltLake, Kolkata, West Bengal, India - 700091</b></a>.<br>
 
 
 <br>
